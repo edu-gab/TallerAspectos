@@ -5,6 +5,8 @@
 
 Aspecto
 <img width="1440" alt="Captura de pantalla 2023-06-01 a la(s) 22 49 39" src="https://github.com/edu-gab/TallerAspectos/assets/91575914/df19cb30-5492-4f62-b6f3-df90dcfe485c">
+![image](https://github.com/edu-gab/TallerAspectos/assets/117412987/54a2f9f4-d401-46e2-aa0e-d0fc78ebfd03)
+
 
 Ejecución
 <img width="1440" alt="Captura de pantalla 2023-06-01 a la(s) 22 26 17" src="https://github.com/edu-gab/TallerAspectos/assets/91575914/cad739e2-373d-42ba-948e-500bd4b181a0">
@@ -16,4 +18,6 @@ Ejecución
 ![image](https://github.com/edu-gab/TallerAspectos/assets/116916505/2fa7edc1-2710-4a91-8a2e-2f1bb737e678)
 ![image](https://github.com/edu-gab/TallerAspectos/assets/116916505/152f74f0-3625-490f-ab5e-14ae87284149)
 ![image](https://github.com/edu-gab/TallerAspectos/assets/116916505/25bd1a6d-711a-4593-b934-eee1d71dbc58)
+![image](https://github.com/edu-gab/TallerAspectos/assets/117412987/54489903-557e-4e79-a3f8-359fa4d8e7f0)
+
 
